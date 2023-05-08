@@ -1,5 +1,5 @@
 # Melody Starter
-## Music Generation with Generative AI
+**Music Generation with Generative AI**
 
 ## Overview
 Melody Starter is a music generation project that focuses on composing melodies from given sequences of notes for smart instruments. The model is trained using classical piano pieces from 254 songs by 17 famous composers, including Beethoven, Bach, and Mozart. The project aims to generate melodies by anticipating the sequence of notes without considering timing, duration, or timbre initially. The method employed is a Convolutional Neural Network (CNN) with WaveNet deep learning, which has been successfully used by Google voice recognition services since 2017.
